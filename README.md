@@ -7,17 +7,17 @@ Stand: 14.10.2023, KTO
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
 14.10.2023   | Bonbaden        | 17:00      | Pfr/in. Vollmer   | GD, Konfirmationsjubiläen mit Abendmahl |
-14.10.2023   | Oberwetz        | 17:30      | Pfr. Ott          | Gottesdienst  |
-14.10.2023   | Griedelbach     | 19:00      | Pfr. Ott          | Gottesdienst  |
-15.10.2023   | **Burgsolms**   | **09:30**  | **Pfrin. Offermann**  | **Gottesdienst** | 
+14.10.2023   | Oberwetz        | 17:30      | Pfr. Ott          | GD  |
+14.10.2023   | Griedelbach     | 19:00      | Pfr. Ott          | GD  |
+15.10.2023   | **Burgsolms**   | **09:30**  | **Pfrin. Offermann**  | **GD** | 
 15.10.2023   | Braunfels       | 17:15      | -                 | Orgelführung 'Bosch-Orgel' |
 15.10.2023   | Braunfels       | 18:00      | -                 | Konzert mit Barockmusik |
-15.10.2023   | Niederbiel      | 10:00      | Pfr. Pack         | Gottesdienst  |
+15.10.2023   | Niederbiel      | 10:00      | Pfr. Pack         | GD  |
 15.10.2023   | Neukirchen      | 09:30      | Pfr/in. Vollmer   | GD, ggf. Konfirmationsjubiläen mit Abendmahl |
 15.10.2023   | Schwalbach      | 11:00      | Pfr/in. Vollmer   | GD, Konfirmationsjubiläen mit Abendmahl |
-15.10.2023   | Oberquembach    | 09:30      | Pfr. Ott          | Gottesdienst  |
-15.10.2023   | Kröffelbach     | 11:00      | Pfr. Ott          | Gottesdienst  |
-15.10.2023   | Brandoberndorf  | --:--      | Urlaub            | kein GD       | 
+15.10.2023   | Oberquembach    | 09:30      | Pfr. Ott          | GD  |
+15.10.2023   | Kröffelbach     | 11:00      | Pfr. Ott          | GD  |
+15.10.2023   | Brandoberndorf  | --:--      | Urlaub            | kein GD   | 
 
 ## Links
 
