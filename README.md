@@ -10,6 +10,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 14.10.2023   | Oberwetz        | 17:30      | Pfr. Ott          | GD  |
 14.10.2023   | Griedelbach     | 19:00      | Pfr. Ott          | GD  |
 15.10.2023   | **Burgsolms**   | **09:30**  | **Pfrin. Offermann**  | **GD** | 
+15.10.2023   | Braunfels       | 11:00      | Pfr. i.R. Bernd-Volker Sponholz | GD |
 15.10.2023   | Braunfels       | 17:15      | -                 | Orgelführung 'Bosch-Orgel' |
 15.10.2023   | Braunfels       | 18:00      | -                 | Konzert mit Barockmusik |
 15.10.2023   | Niederbiel      | 10:00      | Pfr. Pack         | GD  |
