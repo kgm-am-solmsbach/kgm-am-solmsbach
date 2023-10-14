@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind (entgegen der Fliessrichtung).
 
-Stand: 12.10.2023, KTO
+Stand: 14.10.2023, KTO
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
@@ -16,7 +16,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 15.10.2023   | Schwalbach      | 11:00      | Pfr/in. Vollmer   | GD, Konfirmationsjubiläen mit Abendmahl |
 15.10.2023   | Oberquembach    | 09:30      | Pfr. Ott          | Gottesdienst  |
 15.10.2023   | Kröffelbach     | 11:00      | Pfr. Ott          | Gottesdienst  |
-15.10.2023   | Brandoberndorf  | ??:00      | ??                | Gottesdienst  | 
+15.10.2023   | Brandoberndorf  | --:--      | Urlaub            | kein GD       | 
 
 ## Links
 
