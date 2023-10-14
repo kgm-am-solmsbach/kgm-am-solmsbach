@@ -6,6 +6,7 @@ Stand: 14.10.2023, KTO
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
+14.10.2023   | Bonbaden        | 17:00      | Pfr/in. Vollmer   | GD, Konfirmationsjubiläen mit Abendmahl |
 14.10.2023   | Oberwetz        | 17:30      | Pfr. Ott          | Gottesdienst  |
 14.10.2023   | Griedelbach     | 19:00      | Pfr. Ott          | Gottesdienst  |
 15.10.2023   | **Burgsolms**   | **09:30**  | **Pfrin. Offermann**  | **Gottesdienst** | 
