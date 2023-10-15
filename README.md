@@ -1,6 +1,7 @@
 # Ev. Kirchengemeinden<br>'Nahe dem Solmsbach'
 Diese Seite listet die landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
+
 Stand: 16.10.2023, klaus.toscher bei der ekir 
 
 ## Links
